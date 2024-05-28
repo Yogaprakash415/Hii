@@ -1,0 +1,8 @@
+function Alert(){
+    return(
+       alert("welcome to javascript")
+    );
+}
+export default Alert;
+
+// copy this code and paste ur javascriot file ,thn import from Alert file after run the "npm start"

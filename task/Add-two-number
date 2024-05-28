@@ -1,0 +1,14 @@
+function addTwoNumbers(num1, num2) {
+    return num1 + num2;
+  }
+  
+  function showCurrentDate() {
+    const currentDate = new Date();
+    alert("Current date is: " + currentDate.toDateString());
+  }
+
+  const sum = addTwoNumbers(5, 10);
+  console.log("Sum:", sum);
+  
+  showCurrentDate();
+  
